@@ -4,7 +4,7 @@ import java.net.Socket;
 /**
  * Created by sameerasy on 18/11/17.
  */
-public class FileReader {
+public class ReaderClient {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
 
         FileInputStream fstream = new FileInputStream("/Users/sameerasy/IdeaProjects/FileRead/src/data.txt");
